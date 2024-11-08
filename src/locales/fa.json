@@ -1,0 +1,94 @@
+{
+  "profile": {
+    "title": "تنظیمات پروفایل",
+    "name": "نام",
+    "namePlaceholder": "نام خود را وارد کنید",
+    "theme": "تم",
+    "lightTheme": "روشن",
+    "darkTheme": "تیره",
+    "language": "زبان",
+    "saveButton": "ذخیره تغییرات"
+  },
+  "common": {
+    "defaultUser": "کاربر"
+  },
+  "greetings": {
+    "morning": "صبح بخیر",
+    "afternoon": "ظهر بخیر",
+    "evening": "عصر بخیر"
+  },
+  "dashboard": {
+    "currentTime": "زمان فعلی",
+    "welcomeMessage": "به داشبورد خود خوش آمدید",
+    "description": "در اینجا می‌توانید وظایف خود را مدیریت کنید، آب و هوا را بررسی کنید و تجربه خود را شخصی‌سازی کنید."
+  },
+
+  "sidebar": {
+    "dashboard": "داشبورد",
+    "todos": "لیست کارها",
+    "weather": "آب و هوا",
+    "profile": "پروفایل",
+    "lightMode": "حالت روشن",
+    "darkMode": "حالت تاریک",
+    "switchToFarsi": "تغییر به فارسی",
+    "switchToEnglish": "تغییر به انگلیسی"
+  },
+
+  "todos": {
+    "title": "لیست کارها",
+    "add_todo": "افزودن کار",
+    "edit": "ویرایش کار",
+    "cancel": "لغو",
+    "form": {
+      "title_placeholder": "عنوان کار را وارد کنید",
+      "description_placeholder": "توضیحات کار را وارد کنید",
+      "add": "افزودن کار",
+      "edit": "ذخیره تغییرات"
+    },
+    "validation": {
+      "required_fields": "عنوان و توضیحات الزامی است"
+    },
+    "confirm_delete": "آیا از حذف این کار مطمئن هستید؟"
+  },
+  "current_time": "زمان جاری",
+  "dashboard_welcome": "به داشبورد شخصی خود خوش آمدید!",
+  "weather": "آب و هوا",
+  "search_city": "جستجو شهر",
+  "current_weather": "آب و هوای حال",
+  "temperature": "دما",
+  "weather_description": "شرایط آب و هوایی",
+  "wind_speed": "سرعت باد",
+  "select_a_city_to_see_weather": "لطفا شهری را برای مشاهده آب و هوا انتخاب نمایید",
+  "error_fetching_weather": "خطا در دریافت اطلاعات آب و هوایی",
+
+  "name": "نام کاربری",
+  "theme": "تم",
+  "locale": "زبان برنامه",
+  "light_mode": "روشن",
+  "dark_mode": "تاریک",
+  "save": "ذخیره",
+  "update_profile_message": "لطفا اطلاعات پروفایل خود را بروزرسانی نمایید.",
+
+  "todo_title": "عنوان کار",
+  "todo_description": "توضیح کار",
+  "add_todo": "تعریف کار جدید",
+  "edit_todo": "ویرایش کار",
+  "delete_todo": "حذف کار",
+  "update_profile": "بروزرسانی پروفایل",
+
+  "switch_to_farsi": "تغییر به زبان فارسی",
+  "switch_to_english": "تغییر به زبان انگلیسی",
+  "delete_todo_confirm": "آیا از حذف کار مطمئن هستید؟",
+  "add_todo_message": "لطفا عنوان و توضیح کار را وارد نمایید.",
+  "edit_todo_message": "لطفا عنوان و توضیح کار را ویرایش نمایید.",
+  "empty_todo_title": "عنوان کار نمی‌تواند خالی باشد.",
+  "empty_todo_description": "توضیح کار نمی‌تواند خالی باشد.",
+  "add_todo_success": "کار با موفقیت اضافه شد.",
+  "edit_todo_success": "کار با موفقیت ویرایش شد.",
+  "delete_todo_success": "کار با موفقیت حذف شد.",
+  "cancel": "انصراف",
+  "confirm": "تایید",
+  "enter_your_name": "لطفا نام خود را وارد نمایید",
+  "updating": "بروزرسانی...",
+  "saving": "ذخیره..."
+}

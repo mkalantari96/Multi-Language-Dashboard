@@ -1,0 +1,89 @@
+{
+  "profile": {
+    "title": "Profile Settings",
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "theme": "Theme",
+    "lightTheme": "Light",
+    "darkTheme": "Dark",
+    "language": "Language",
+    "saveButton": "Save Changes"
+  },
+  "common": {
+    "defaultUser": "User"
+  },
+  "greetings": {
+    "morning": "Good Morning",
+    "afternoon": "Good Afternoon",
+    "evening": "Good Evening"
+  },
+  "dashboard": {
+    "currentTime": "Current Time",
+    "welcomeMessage": "Welcome to Your Dashboard",
+    "description": "Here you can manage your tasks, check the weather, and customize your experience."
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "todos": "Todo List",
+    "weather": "Weather",
+    "profile": "Profile",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "switchToFarsi": "Switch to Farsi",
+    "switchToEnglish": "Switch to English"
+  },
+  "todos": {
+    "title": "Todo List",
+    "add_todo": "Add Todo",
+    "edit": "Edit Todo",
+    "cancel": "Cancel",
+    "form": {
+      "title_placeholder": "Enter todo title",
+      "description_placeholder": "Enter todo description",
+      "add": "Add Todo",
+      "edit": "Save Changes"
+    },
+    "validation": {
+      "required_fields": "Title and description are required"
+    },
+    "confirm_delete": "Are you sure you want to delete this todo?"
+  },
+  "current_time": "Current Time",
+  "dashboard_welcome": "Welcome to your personalized dashboard!",
+  "weather": "Weather",
+  "search_city": "Search for a city",
+  "current_weather": "Current Weather",
+  "temperature": "Temperature",
+  "weather_description": "Weather Description",
+  "wind_speed": "Wind Speed",
+  "select_a_city_to_see_weather": "Select a city to see the weather",
+  "error_fetching_weather": "Error fetching weather data",
+
+  "name": "Name",
+  "theme": "Theme",
+  "locale": "Locale",
+  "light_mode": "Light Mode",
+  "dark_mode": "Dark Mode",
+  "save": "Save",
+  "update_profile_message": "Please update your profile information.",
+  "update_profile": "Update Profile",
+
+  "todo_title": "Todo Title",
+
+  "switch_to_farsi": "Switch to Farsi",
+  "switch_to_english": "Switch to English",
+  "delete_todo_confirm": "Are you sure you want to delete this todo?",
+  "add_todo_message": "Please add a todo title and description.",
+  "edit_todo_message": "Please edit the todo title and description.",
+  "empty_todo_title": "Todo title cannot be empty.",
+  "empty_todo_description": "Todo description cannot be empty.",
+  "add_todo_success": "Todo added successfully.",
+  "edit_todo_success": "Todo updated successfully.",
+  "delete_todo_success": "Todo deleted successfully.",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "enter_your_name": "Enter your name",
+  "updating": "Updating...",
+  "saving": "Saving...",
+  "update": "Update"
+}
